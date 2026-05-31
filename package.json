@@ -2,6 +2,7 @@
   "name": "solid-lab",
   "version": "1.0.0",
   "description": "Aprendizado pessoal dos princípios SOLID com TypeScript",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "dev": "ts-node",
